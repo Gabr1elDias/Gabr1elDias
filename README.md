@@ -15,8 +15,8 @@
 
 #### Studying in this moment:
 
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![EntityFramework](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![ASP.NET](https://img.shields.io/badge/asp.net-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![EntityFramework](https://img.shields.io/badge/entityframewrok-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![NODEJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
